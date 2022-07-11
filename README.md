@@ -1,4 +1,7 @@
-# Project Euler - Problem 57 - Square Root Convergents
+# Project Euler
+
+## Problem 57 - Square Root Convergents
+
 It is possible to show that the square root of two can be expressed as an infinite continued fraction.
 
 <img src="https://render.githubusercontent.com/render/math?math=\sqrt{2} = 1 %2b \frac{1}{2 %2b \frac{1}{2 %2b \frac{1}{2 %2b \dots}}}">
