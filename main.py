@@ -22,7 +22,7 @@
 from math import ceil, floor, log10, sqrt
 
 
-def main(n):
+def main(n: int) -> int:
     """
     Returns the number of expansions of the convergent sqrt(2) sequence,
       within the first `n` (inclusive) iterations,
